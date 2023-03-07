@@ -1,0 +1,63 @@
+layout folders as shown normally you could have separate css files for each section of the project.
+
+link all pages before starting to code and test your pre arranged vendor-specific css files to the project here and add your css files. 
+
+Other links font icons and icons should be added to the head of the project.
+
+Inner-HTML links should be added to the folders of the project
+have to learn how to add them and make them which should be easy.
+
+Do you have a wireframe for your project if not make it even a quick sketch for your project will help the process of adding sections of your project.
+
+Auto prefixers should be added if needed if working with a framework that supports prefixing files DO ADD SAVES TIME IN THE LONG RUN !!!
+
+The rest of the project semantics should be applied to the project and accessibility should be implemented.
+
+For now that will do you need to learn about gulp great tool for this project and others.
+
+REMEMBER THE LAYOUT TECHNIQUES WITH COMMENTS AS YOUR SECTIONS THAT WHY YOU WIREFRAME
+GO CODE!
+
+
+Will learn more about github actions to save time and effort in the future.
+Keep building on the same color variables until you have completed the project.
+commit your changes regularly.
+
+
+one of many basic easy too understand
+
+:root {
+  --blue: #007bff;
+  --indigo: #6610f2;
+  --purple: #6f42c1;
+  --pink: #e83e8c;
+  --red: #dc3545;
+  --orange: #fd7e14;
+  --yellow: #ffc107;
+  --green: #28a745;
+  --teal: #20c997;
+  --cyan: #17a2b8;
+  --white: #fff;
+  --gray: #6c757d;
+  --gray-dark: #343a40;
+  --primary: #007bff;
+  --secondary: #6c757d;
+  --success: #28a745;
+  --info: #17a2b8;
+  --warning: #ffc107;
+  --danger: #dc3545;
+  --light: #f8f9fa;
+  --dark: #343a40;
+  --breakpoint-xs: 0;
+  --breakpoint-sm: 576px;
+  --breakpoint-md: 768px;
+  --breakpoint-lg: 992px;
+  --breakpoint-xl: 1200px;
+  --font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }
+
+*,
+*::before,
+*::after {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box; }
