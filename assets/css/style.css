@@ -62,7 +62,11 @@ h6 {
   transition: all 0.5s;
   z-index: 997;
   transition: all 0.5s;
+<<<<<<< HEAD
   background-image: url("../img/gif/blue.gif");
+=======
+  background-image: url("assets/img/gif/blue.gif");
+>>>>>>> 8e617a31ad00fabe395db9e8e8be2e9aa062dd62
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
 }
 
@@ -326,7 +330,11 @@ h6 {
 /* hero */
 #hero {
   background-color: #eff0f692;
+<<<<<<< HEAD
   background: url("../img/hero/heroRobot.jpg");
+=======
+  background: url("assets/img/hero/heroRobot.jpg");
+>>>>>>> 8e617a31ad00fabe395db9e8e8be2e9aa062dd62
   background-blend-mode: multiply;
   background-attachment: fixed;
   background-size: cover;
@@ -916,7 +924,11 @@ section {
 }
 
 .card-title {
+<<<<<<< HEAD
   background-color: #20b015;
+=======
+  background-color: #45a6c4;
+>>>>>>> 8e617a31ad00fabe395db9e8e8be2e9aa062dd62
   background-image:  linear-gradient(135deg, #45a6c4, #b3e00f);
   background-position: center;
   background-size: 100%;
@@ -932,7 +944,11 @@ section {
 
 /* hero 2 */
 .hero2 {
+<<<<<<< HEAD
   background-image: url("../img/hero/mobileResponsive.jpg");
+=======
+  background-image: url("assets/img/hero/mobileResponsive.jpg");
+>>>>>>> 8e617a31ad00fabe395db9e8e8be2e9aa062dd62
   background-blend-mode: multiply;
   background-attachment: fixed;
   background-size: cover;
