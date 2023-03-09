@@ -10,7 +10,7 @@
  https://codesleeps.github.io/Bootstrap-Portfolio/
 
 
- problem loading cant do no more not enough knowledge got enough links to build a road to the moon 🤬
+ only problem now is gradient text on last cards section.....
 
 
- tried fixing buttons & links no joy....
+ All links on page working so ill settle for that.....till i can fix text...what a week 
