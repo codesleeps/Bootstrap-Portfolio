@@ -63,7 +63,11 @@ h6 {
   z-index: 997;
   transition: all 0.5s;
 <<<<<<< HEAD
+<<<<<<< HEAD
   background-image: url("../img/gif/blue.gif");
+=======
+  background-image: url("assets/img/gif/blue.gif");
+>>>>>>> 8e617a31ad00fabe395db9e8e8be2e9aa062dd62
 =======
   background-image: url("assets/img/gif/blue.gif");
 >>>>>>> 8e617a31ad00fabe395db9e8e8be2e9aa062dd62
@@ -331,7 +335,11 @@ h6 {
 #hero {
   background-color: #eff0f692;
 <<<<<<< HEAD
+<<<<<<< HEAD
   background: url("../img/hero/heroRobot.jpg");
+=======
+  background: url("assets/img/hero/heroRobot.jpg");
+>>>>>>> 8e617a31ad00fabe395db9e8e8be2e9aa062dd62
 =======
   background: url("assets/img/hero/heroRobot.jpg");
 >>>>>>> 8e617a31ad00fabe395db9e8e8be2e9aa062dd62
@@ -925,7 +933,11 @@ section {
 
 .card-title {
 <<<<<<< HEAD
+<<<<<<< HEAD
   background-color: #20b015;
+=======
+  background-color: #45a6c4;
+>>>>>>> 8e617a31ad00fabe395db9e8e8be2e9aa062dd62
 =======
   background-color: #45a6c4;
 >>>>>>> 8e617a31ad00fabe395db9e8e8be2e9aa062dd62
@@ -945,7 +957,11 @@ section {
 /* hero 2 */
 .hero2 {
 <<<<<<< HEAD
+<<<<<<< HEAD
   background-image: url("../img/hero/mobileResponsive.jpg");
+=======
+  background-image: url("assets/img/hero/mobileResponsive.jpg");
+>>>>>>> 8e617a31ad00fabe395db9e8e8be2e9aa062dd62
 =======
   background-image: url("assets/img/hero/mobileResponsive.jpg");
 >>>>>>> 8e617a31ad00fabe395db9e8e8be2e9aa062dd62
