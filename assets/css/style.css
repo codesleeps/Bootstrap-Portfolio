@@ -61,7 +61,7 @@ h6 {
   transition: all 0.5s;
   z-index: 997;
   transition: all 0.5s;
-  background-image: url(/assets/img/gif/blue.gif);
+  background-image: url("assets/img/gif/blue.gif");
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
 }
 
@@ -325,7 +325,7 @@ h6 {
 /* hero */
 #hero {
   background-color: #eff0f692;
-  background: url(/assets/img/hero/heroRobot.jpg);
+  background: url("assets/img/hero/heroRobot.jpg");
   background-blend-mode: multiply;
   background-attachment: fixed;
   background-size: cover;
@@ -929,7 +929,7 @@ section {
 
 /* hero 2 */
 .hero {
-  background-image: url(/assets/img/hero/mobileResponsive.jpg);
+  background-image: url("assets/img/hero/mobileResponsive.jpg");
   background-blend-mode: multiply;
   background-attachment: fixed;
   background-size: cover;
