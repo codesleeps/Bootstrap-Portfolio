@@ -6,11 +6,9 @@
  
  Bootstrap ver. 4 & 5
  
+ Hope you like robots ?
  
  https://codesleeps.github.io/Bootstrap-Portfolio/
-
-
- 
 
 
  All links on page working so ill settle for that.....till i can fix gradient-text...what a week!
@@ -23,3 +21,8 @@
 ![Screenshot 2023-03-10 at 16 45 24](https://user-images.githubusercontent.com/125808990/224374094-b461f36e-b38b-4aba-ab2e-09fedf74a4d0.png)
 ![Screenshot 2023-03-10 at 16 45 56](https://user-images.githubusercontent.com/125808990/224374103-39fbd8d8-1cec-448e-a7a2-dc9048ab8c2a.png)
 ![Screenshot 2023-03-10 at 16 46 11](https://user-images.githubusercontent.com/125808990/224374115-918c2c23-c94a-4f95-b336-d2fde62b11bb.png)
+
+
+```
+install
+```
