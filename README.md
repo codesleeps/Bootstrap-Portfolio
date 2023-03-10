@@ -5,6 +5,9 @@
  
  
  Bootstrap ver. 4 & 5
+ ```install
+npm i bootstrap@5.3.0-alpha1
+```
  
  Hope you like robots ?
  
@@ -23,6 +26,4 @@
 ![Screenshot 2023-03-10 at 16 46 11](https://user-images.githubusercontent.com/125808990/224374115-918c2c23-c94a-4f95-b336-d2fde62b11bb.png)
 
 
-```
-install
-```
+
