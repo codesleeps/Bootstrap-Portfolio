@@ -6,6 +6,9 @@
  
  Bootstrap ver. 4 & 5
  ```install
+ npm install bootstrap
+ ```
+ ```install
 npm i bootstrap@5.3.0-alpha1
 ```
  
