@@ -29,22 +29,24 @@ npm i bootstrap@5.3.0-alpha1
 > Desktop view added hero image
 > 
 ![Screenshot 2023-03-06 at 16 55 00](https://user-images.githubusercontent.com/125808990/224373211-9d853a54-9883-45b3-82de-8976a4fbc23b.png)
+![Screenshot 2023-03-12 at 13 29 43](https://user-images.githubusercontent.com/125808990/224548060-486b467c-6f39-4b9b-bc07-20cd3213807b.png)
+
 
 > Desktop view added cards icons and image
 > 
-![Screenshot 2023-03-10 at 16 44 23](https://user-images.githubusercontent.com/125808990/224374079-e5900e35-5178-4e1c-a7c6-f2c0766728a2.png)
+![Screenshot 2023-03-12 at 13 30 08](https://user-images.githubusercontent.com/125808990/224548154-75b2aa20-8efc-4e04-bc7c-de18f8e280dc.png)
 
 > Desktop view added skill counter
 
-![Screenshot 2023-03-10 at 16 44 45](https://user-images.githubusercontent.com/125808990/224374086-f219e46f-9889-426f-8602-c91954749086.png)
+![Screenshot 2023-03-12 at 13 30 50](https://user-images.githubusercontent.com/125808990/224548205-89dbff08-984e-4532-99de-2675ed16445f.png)
 
 > Desktop view added cards and 3D icons
 > 
-![Screenshot 2023-03-10 at 16 45 02](https://user-images.githubusercontent.com/125808990/224374089-95f011c2-52f7-42d1-8596-2db885a087e9.png)
+![Screenshot 2023-03-12 at 13 31 13](https://user-images.githubusercontent.com/125808990/224548226-e8232fb5-e436-48c2-8e24-a476879c543d.png)
 
 > Desktop view added images and links to projects
 > 
-![Screenshot 2023-03-10 at 16 45 24](https://user-images.githubusercontent.com/125808990/224374094-b461f36e-b38b-4aba-ab2e-09fedf74a4d0.png)
+![Screenshot 2023-03-12 at 13 31 35](https://user-images.githubusercontent.com/125808990/224548245-655f5d10-e727-476c-bd40-797a9aeb26d1.png)
 
 > Desktop view  added icons, gradient text and gradient buttons 🔥
 
@@ -56,7 +58,6 @@ npm i bootstrap@5.3.0-alpha1
 
 > Desktop view added footer, contact section, links, icons, form & button
 >  
-![Screenshot 2023-03-10 at 16 46 11](https://user-images.githubusercontent.com/125808990/224374115-918c2c23-c94a-4f95-b336-d2fde62b11bb.png)
-
+![Screenshot 2023-03-12 at 13 32 04](https://user-images.githubusercontent.com/125808990/224548271-2b97d667-728d-49be-992d-7ad81b21bede.png)
 
 
