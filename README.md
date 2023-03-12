@@ -49,7 +49,13 @@ npm i bootstrap@5.3.0-alpha1
 > Desktop view  added icons, gradient text and gradient buttons 🔥
 
 ![Screenshot 2023-03-10 at 17 01 18](https://user-images.githubusercontent.com/125808990/224377693-4c61de01-b8c4-4445-bcee-681f1211fef9.png)
+
+> Desktop view added another hero 2 better than 1 👀
+> 
 ![Screenshot 2023-03-10 at 16 45 56](https://user-images.githubusercontent.com/125808990/224374103-39fbd8d8-1cec-448e-a7a2-dc9048ab8c2a.png)
+
+> Desktop view added footer, contact section, links and icons
+>  
 ![Screenshot 2023-03-10 at 16 46 11](https://user-images.githubusercontent.com/125808990/224374115-918c2c23-c94a-4f95-b336-d2fde62b11bb.png)
 
 
