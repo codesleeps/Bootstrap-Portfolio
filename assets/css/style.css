@@ -811,15 +811,9 @@ section {
   background-color:  #060b25;
 }
 .card-title {
-  background-color: #20b015;
-  font-size: 1.2em;
   background-image:  linear-gradient(135deg, #0bf05b, #293d9a);
-  background-position: center;
-  background-size: 100%;
   background-clip: text;
   -webkit-text-fill-color: transparent;
-  -moz-background-clip: text;
-  -moz-text-fill-color: transparent;
 }
 .card-btn {
   background-color: #20b015;
