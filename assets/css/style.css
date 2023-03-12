@@ -399,7 +399,7 @@ section {
 .section-title h2::before {
   content: "";
   position: absolute;
-  display: inline-block;
+  display: block;
   width: 120px;
   height: 1px;
   background: #ddd;
@@ -409,7 +409,7 @@ section {
 .section-title h2::after {
   content: "";
   position: absolute;
-  display: inline-block;
+  display: block;
   width: 40px;
   height: 3px;
   background: rgba(44, 198, 245, 0.786);
@@ -810,10 +810,10 @@ section {
 .card {
   background-color:  #060b25;
 }
-.card-title {
-/*   background-image:  linear-gradient(135deg, #0bf05b, #293d9a); */
-/*   background-clip: text; */
-/*   -webkit-text-fill-color: transparent; */
+.achievements, .card-title {
+  background-image:  linear-gradient(135deg, #0bf05b, #293d9a);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 .card-btn {
   background-color: #20b015;
