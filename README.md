@@ -18,7 +18,7 @@ npm i bootstrap@5.3.0-alpha1
 
 ## Screenshots
 
-> Mobile view navbar added, but picture repeating (fix)
+> Mobile view navbar added, but background image repeating (fix)
 
 ![Screenshot 2023-03-06 at 15 37 16](https://user-images.githubusercontent.com/125808990/224373140-e51493d1-325e-4bb8-a00d-2b54b6afc100.png)
 ![Screenshot 2023-03-06 at 16 28 06](https://user-images.githubusercontent.com/125808990/224373179-c5373b4f-9464-4e0d-a46b-f3e462b428c1.png)
