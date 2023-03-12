@@ -809,14 +809,14 @@ section {
 /* achievements section */
 .card {
   background-color:  #060b25;
-}
+/* }
 .card-title {
   background-image:  linear-gradient(135deg, #0bf05b, #293d9a);
   background-position: center;
   background-attachment: fixed;;
   background-clip: text;
   -webkit-text-fill-color: transparent;
-}
+} */
 .card-btn {
   background-color: #20b015;
   font-family: "Poppins", sans-serif;
