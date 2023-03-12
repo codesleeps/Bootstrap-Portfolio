@@ -29,6 +29,9 @@ npm i bootstrap@5.3.0-alpha1
 > Desktop view added hero image
 > 
 ![Screenshot 2023-03-06 at 16 55 00](https://user-images.githubusercontent.com/125808990/224373211-9d853a54-9883-45b3-82de-8976a4fbc23b.png)
+
+> Desktop view added cards icons and image
+> 
 ![Screenshot 2023-03-10 at 16 44 23](https://user-images.githubusercontent.com/125808990/224374079-e5900e35-5178-4e1c-a7c6-f2c0766728a2.png)
 ![Screenshot 2023-03-10 at 16 44 45](https://user-images.githubusercontent.com/125808990/224374086-f219e46f-9889-426f-8602-c91954749086.png)
 ![Screenshot 2023-03-10 at 17 01 18](https://user-images.githubusercontent.com/125808990/224377693-4c61de01-b8c4-4445-bcee-681f1211fef9.png)
