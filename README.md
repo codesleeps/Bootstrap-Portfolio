@@ -37,7 +37,13 @@ npm i bootstrap@5.3.0-alpha1
 > Desktop view added skill counter
 
 ![Screenshot 2023-03-10 at 16 44 45](https://user-images.githubusercontent.com/125808990/224374086-f219e46f-9889-426f-8602-c91954749086.png)
+
+> Desktop view added cards and 3D icons
+> 
 ![Screenshot 2023-03-10 at 16 45 02](https://user-images.githubusercontent.com/125808990/224374089-95f011c2-52f7-42d1-8596-2db885a087e9.png)
+
+> Desktop view added images and links to projects
+> 
 ![Screenshot 2023-03-10 at 16 45 24](https://user-images.githubusercontent.com/125808990/224374094-b461f36e-b38b-4aba-ab2e-09fedf74a4d0.png)
 ![Screenshot 2023-03-10 at 17 01 18](https://user-images.githubusercontent.com/125808990/224377693-4c61de01-b8c4-4445-bcee-681f1211fef9.png)
 ![Screenshot 2023-03-10 at 16 45 56](https://user-images.githubusercontent.com/125808990/224374103-39fbd8d8-1cec-448e-a7a2-dc9048ab8c2a.png)
