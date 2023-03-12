@@ -399,7 +399,7 @@ section {
 .section-title h2::before {
   content: "";
   position: absolute;
-  display: block;
+  display: inline-block;
   width: 120px;
   height: 1px;
   background: #ddd;
@@ -409,7 +409,7 @@ section {
 .section-title h2::after {
   content: "";
   position: absolute;
-  display: block;
+  display: inline-block;
   width: 40px;
   height: 3px;
   background: rgba(44, 198, 245, 0.786);
