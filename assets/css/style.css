@@ -813,7 +813,7 @@ section {
 .card-title {
   background-image:  linear-gradient(135deg, #0bf05b, #293d9a);
   background-clip: text;
-  -webkit-text-fill-color: transparent; 
+/*   -webkit-text-fill-color: transparent;  */
 
 .card-btn {
   background-color: #20b015;
