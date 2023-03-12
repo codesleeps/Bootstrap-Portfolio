@@ -853,7 +853,7 @@ section {
   color: rgb(147, 20, 164);
 }
 /* contact section*/
-.contact {
+#contact {
   background-color: #060b25;
 }
 .contact, section-bg, p{
