@@ -54,7 +54,7 @@ npm i bootstrap@5.3.0-alpha1
 > 
 ![Screenshot 2023-03-10 at 16 45 56](https://user-images.githubusercontent.com/125808990/224374103-39fbd8d8-1cec-448e-a7a2-dc9048ab8c2a.png)
 
-> Desktop view added footer, contact section, links and icons
+> Desktop view added footer, contact section, links, icons, form & button
 >  
 ![Screenshot 2023-03-10 at 16 46 11](https://user-images.githubusercontent.com/125808990/224374115-918c2c23-c94a-4f95-b336-d2fde62b11bb.png)
 
