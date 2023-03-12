@@ -810,7 +810,7 @@ section {
 .card {
   background-color:  #060b25;
 }
-#achievements, .card-title {
+.card-title {
   background-image:  linear-gradient(135deg, #0bf05b, #293d9a);
   background-clip: text;
   -webkit-text-fill-color: transparent;
