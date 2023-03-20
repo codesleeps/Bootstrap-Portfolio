@@ -16,21 +16,15 @@ npm i bootstrap@5.3.0-alpha1
  
  https://codesleeps.github.io/Bootstrap-Portfolio/
 
-## Screenshots
+## Microsoft Learn
 
-> Mobile view navbar added, but background image repeating (fix) 😮
+![achievementsTrophy](https://user-images.githubusercontent.com/125808990/226473105-96a90167-8ca6-4897-8746-ab92653da446.png)
 
-![Screenshot 2023-03-06 at 15 37 16](https://user-images.githubusercontent.com/125808990/224373140-e51493d1-325e-4bb8-a00d-2b54b6afc100.png)
+![achievmentsMoules1](https://user-images.githubusercontent.com/125808990/226473129-f310796d-08b0-408e-8670-996c6dba5615.png)
 
-> Mobile view `background-image: no-repeat;` imaged fixed ✅
-> 
-![Screenshot 2023-03-06 at 16 28 06](https://user-images.githubusercontent.com/125808990/224373179-c5373b4f-9464-4e0d-a46b-f3e462b428c1.png)
+![achievementsModule2](https://user-images.githubusercontent.com/125808990/226473142-e8869831-ae96-4667-af2e-5828c477256b.png)
 
-> Desktop view added hero image
-> 
-![Screenshot 2023-03-06 at 16 55 00](https://user-images.githubusercontent.com/125808990/224373211-9d853a54-9883-45b3-82de-8976a4fbc23b.png)
-![Screenshot 2023-03-12 at 13 29 43](https://user-images.githubusercontent.com/125808990/224548060-486b467c-6f39-4b9b-bc07-20cd3213807b.png)
-
+![achievementsModule3](https://user-images.githubusercontent.com/125808990/226473163-eee6dc4c-8abb-4a83-b166-3127f2d67f41.png)
 
 > Desktop view added cards icons and image
 > 
