@@ -43,11 +43,11 @@ npm i bootstrap@5.3.0-alpha1
 
 > Desktop view added images and links to projects 🔥
 > 
-[Screenshot 4](https://user-images.githubusercontent.com/125808990/224548245-655f5d10-e727-476c-bd40-797a9aeb26d1.png)
+[Portfolio](https://user-images.githubusercontent.com/125808990/224548245-655f5d10-e727-476c-bd40-797a9aeb26d1.png)
 
 > Desktop view  added icons, gradient text and gradient buttons 🔥
 
-[Screenshot 5](https://user-images.githubusercontent.com/125808990/224377693-4c61de01-b8c4-4445-bcee-681f1211fef9.png)
+[Achievements](https://user-images.githubusercontent.com/125808990/224377693-4c61de01-b8c4-4445-bcee-681f1211fef9.png)
 
 > Desktop view added another hero 2 better than 1 👀
 > 
