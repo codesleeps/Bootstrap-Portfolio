@@ -39,7 +39,7 @@ npm i bootstrap@5.3.0-alpha1
 
 > Desktop view added cards and 3D icons 🔥
 > 
-[Screenshot 3](https://user-images.githubusercontent.com/125808990/224548226-e8232fb5-e436-48c2-8e24-a476879c543d.png)
+[Study Projects](https://user-images.githubusercontent.com/125808990/224548226-e8232fb5-e436-48c2-8e24-a476879c543d.png)
 
 > Desktop view added images and links to projects 🔥
 > 
