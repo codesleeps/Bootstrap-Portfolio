@@ -1,7 +1,7 @@
-# Bootstrap-Portfolio 🎯
+# Portfolio 🎯
 
 
- My Portfolio - Front End Web Development
+ ## My Portfolio - Front End Web Development
  
  
  Bootstrap ver. 4 & 5
