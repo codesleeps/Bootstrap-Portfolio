@@ -31,7 +31,7 @@ npm i bootstrap@5.3.0-alpha1
 
 > Desktop view added cards icons and image 🔥
 > 
-[Screenshot 1](https://user-images.githubusercontent.com/125808990/224548154-75b2aa20-8efc-4e04-bc7c-de18f8e280dc.png)
+[Learning Path & About](https://user-images.githubusercontent.com/125808990/224548154-75b2aa20-8efc-4e04-bc7c-de18f8e280dc.png)
 
 > Desktop view added skill counter 🔥
 
