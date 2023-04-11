@@ -51,10 +51,10 @@ npm i bootstrap@5.3.0-alpha1
 
 > Desktop view added another hero 2 better than 1 👀
 > 
-[Screenshot 6](https://user-images.githubusercontent.com/125808990/224374103-39fbd8d8-1cec-448e-a7a2-dc9048ab8c2a.png)
+[Hero](https://user-images.githubusercontent.com/125808990/224374103-39fbd8d8-1cec-448e-a7a2-dc9048ab8c2a.png)
 
 > Desktop view added footer, contact section, links, icons, form & button 🔥
 >  
-[Screenshot 7](https://user-images.githubusercontent.com/125808990/224548271-2b97d667-728d-49be-992d-7ad81b21bede.png)
+[Footer](https://user-images.githubusercontent.com/125808990/224548271-2b97d667-728d-49be-992d-7ad81b21bede.png)
 
 
