@@ -61,4 +61,23 @@ npm i bootstrap@5.3.0-alpha1
 [achievementsModule3](https://user-images.githubusercontent.com/125808990/226473163-eee6dc4c-8abb-4a83-b166-3127f2d67f41.png)
 
 
+## VS Code - Extensions
+
+- [x] Quokka.js 🤖
+- [x] ESLint 🔥
+- [x] JavaScript (ES6) 
+- [x] Prettier 🔥
+- [x] Tabnine 🤖
+
+
+
+## Additional resources
+
+- [Coding Addict](https://johnsmilga.com)
+- [MDN Web Docs](https://developer.mozilla.org/en-US/)
+- [Java Point](https://www.javatpoint.com/jquery-example)
+- [Geeks for Geeks](https://www.geeksforgeeks.org/jquery-examples/)
+- [Microsoft Learn](https://learn.microsoft.com/en-us/training/)
+
+
 
