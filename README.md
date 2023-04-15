@@ -16,7 +16,7 @@ npm i bootstrap@5.3.0-alpha1
  >  
  [Portfolio Here](https://codesleeps.github.io/Bootstrap-Portfolio/)
 
-
+[Free Data Api for Students](https://openweathermap.org/our-initiatives/student-initiative)
 
 ### Screenshots
 
