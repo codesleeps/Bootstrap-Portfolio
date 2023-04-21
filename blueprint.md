@@ -1,7 +1,4 @@
-<!-- ⚠️ This README has been generated from the file(s) "blueprint.md" ⚠️-->
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#portfolio-)
-
-# ➤ Portfolio 🎯
+# Portfolio 🎯
 
 
  ## My Portfolio - Front End Web Development
@@ -53,10 +50,7 @@ npm i bootstrap@5.3.0-alpha1
 
 
 
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#microsoft-learn-)
-
-## ➤ Microsoft Learn ✅
+## Microsoft Learn ✅
 
 [achievementsTrophy](https://user-images.githubusercontent.com/125808990/226473105-96a90167-8ca6-4897-8746-ab92653da446.png)
 
@@ -67,10 +61,7 @@ npm i bootstrap@5.3.0-alpha1
 [achievementsModule3](https://user-images.githubusercontent.com/125808990/226473163-eee6dc4c-8abb-4a83-b166-3127f2d67f41.png)
 
 
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#vs-code---extensions)
-
-## ➤ VS Code - Extensions
+## VS Code - Extensions
 
 - [x] Quokka.js 🤖
 - [x] ESLint 🔥
@@ -80,10 +71,7 @@ npm i bootstrap@5.3.0-alpha1
 
 
 
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
-
-## ➤ Additional resources
+## Additional resources
 
 - [Coding Addict](https://johnsmilga.com)
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
