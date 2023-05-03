@@ -3,6 +3,8 @@
 
 #  Portfolio 🎯
 
+[![License](https://img.shields.io/packagist/l/dingo/api.svg?style=flat-square)](LICENSE)
+
 
  ## My Portfolio - Front End Web Development
  
