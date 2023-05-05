@@ -5,7 +5,7 @@ A brief description of what this project does and who it's for
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
 
-## Badges
+## Badges 🥇
 
 Add badges from somewhere like: [shields.io](https://shields.io/)
 
@@ -16,7 +16,7 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
 
-## Deployment
+## Deployment 🚀
 
 To deploy this project run
 
@@ -26,13 +26,13 @@ To deploy this project run
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
 
-## Documentation
+## Documentation 📄
 
 [Documentation](https://linktodocumentation)
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
 
-## Features
+## Features 🦾
 
 - Light/dark mode toggle
 - Live previews
@@ -41,7 +41,7 @@ To deploy this project run
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
 
-## Installation
+## Installation 🧭
 
 Install my-project with npm
 
@@ -52,7 +52,7 @@ Install my-project with npm
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
     
-## License
+## License ✅
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
@@ -62,14 +62,14 @@ Install my-project with npm
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
 
-## Screenshots
+## Screenshots 📸
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
 
-## Usage/Examples
+## Usage/Examples 🕓
 
 ```javascript
 import Component from 'my-project'
@@ -81,7 +81,7 @@ function App() {
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
 
-## Used By
+## Used By 🌍
 
 This project is used by the following companies:
 
@@ -90,7 +90,7 @@ This project is used by the following companies:
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
 
-## Acknowledgements
+## Acknowledgements 🎓
 
  - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
@@ -100,7 +100,7 @@ This project is used by the following companies:
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
 
 
-## API Reference
+## API Reference 🤖
 
 #### Get all items
 
@@ -128,17 +128,17 @@ Takes two numbers and returns the sum.
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
 
-## Appendix
+## Appendix 🎯
 
 Any additional information goes here
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
 
-## Authors
+## Authors 📚
 
 - [@octokatherine](https://www.github.com/octokatherine)
 
-## Color Reference
+## Color Reference  ⚫️ 🔴 🟠 🟡 🟢 🔵 🟣 🟤 ⚪️
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
@@ -150,7 +150,7 @@ Any additional information goes here
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
 
-## Contributing
+## Contributing 🆘
 
 Contributions are always welcome!
 
@@ -160,13 +160,13 @@ Please adhere to this project's `code of conduct`.
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
 
-## Demo
+## Demo 😈
 
 Insert gif or link to demo
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
 
-## Environment Variables
+## Environment Variables 📡
 
 To run this project, you will need to add the following environment variables to your .env file
 
@@ -177,7 +177,7 @@ To run this project, you will need to add the following environment variables to
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
 
-## FAQ
+## FAQ ⁉️
 
 #### Question 1
 
@@ -190,18 +190,18 @@ Answer 2
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
 
 
-## Feedback
+## Feedback 
 
 If you have any feedback, please reach out to us at fake@fake.com
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
 
 
-## 🚀 About Me
+##  About Me 🚀
+
+# Hi, I'm Code Sleep! 
+
 I'm a full stack developer...
-
-
-# Hi, I'm Code Sleep! 👋
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
 
@@ -231,25 +231,25 @@ I'm a full stack developer...
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
 
-## 🛠 Skills
+## Skills  🛠
 Javascript, HTML, CSS...
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
 
 
-## Lessons Learned
+## Lessons Learned 🎓
 
 What did you learn while building this project? What challenges did you face and how did you overcome them?
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
 
-## Optimizations
+## Optimizations 🏎️
 
 What optimizations did you make in your code? E.g. refactors, performance improvements, accessibility
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
 
-## Related
+## Related 👁️
 
 Here are some related projects
 
@@ -257,7 +257,7 @@ Here are some related projects
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
 
-## Roadmap
+## Roadmap 🔮
 
 - Additional browser support
 
@@ -265,7 +265,7 @@ Here are some related projects
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
 
-## Run Locally
+## Run Locally 💻
 
 Clone the project
 
@@ -293,7 +293,7 @@ Start the server
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
 
-## Support
+## Support 💻 📲 ☎️
 
 For support, email fake@fake.com or join our Slack channel.
 
@@ -301,7 +301,7 @@ For support, email fake@fake.com or join our Slack channel.
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
 
 
-## Tech Stack
+## Tech Stack 🖥️
 
 **Client:** React, Redux, TailwindCSS
 
@@ -309,7 +309,7 @@ For support, email fake@fake.com or join our Slack channel.
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
 
-## Running Tests
+## Running Tests 🧪
 
 To run tests, run the following command
 
