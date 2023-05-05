@@ -1,5 +1,5 @@
 
-# OPEN A.I. PROJECTS ⭐️
+# OPEN AI PROJECTS ⭐️
 
 A brief description of what this project does and who it's for
 
