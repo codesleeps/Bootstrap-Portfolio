@@ -5,6 +5,8 @@
 
 [![License](https://img.shields.io/packagist/l/dingo/api.svg?style=flat-square)](LICENSE)
 
+![Visitor Count](https://profile-counter.glitch.me/codesleeps/count.svg)
+
 
  ## My Portfolio - Front End Web Development
  
