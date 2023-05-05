@@ -1,11 +1,10 @@
 
-# Project Title
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
+# Project Title ⭐️
 
 A brief description of what this project does and who it's for
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
+
 ## Badges
 
 Add badges from somewhere like: [shields.io](https://shields.io/)
