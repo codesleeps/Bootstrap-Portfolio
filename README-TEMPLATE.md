@@ -1,5 +1,5 @@
 
-# Project Title ⭐️
+# OPEN A.I. PROJECTS ⭐️
 
 A brief description of what this project does and who it's for
 
