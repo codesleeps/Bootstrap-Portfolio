@@ -141,9 +141,6 @@ Any additional information goes here
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
 
-## ➤ Authors 📚
-
-- [@octokatherine](https://www.github.com/octokatherine)
 
 ## ➤ Color Reference  ⚫️ 🔴 🟠 🟡 🟢 🔵 🟣 🟤 ⚪️
 
