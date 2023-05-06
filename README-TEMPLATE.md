@@ -1,7 +1,7 @@
 
 # OPEN AI PROJECTS ⭐️
 
-A brief description of what this project does and who it's for
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat dolorem quod impedit recusandae animi vel soluta nemo quibusdam debitis sunt enim voluptatibus ea repellendus dignissimos voluptatem, molestiae nulla, iste repudiandae quidem quasi veniam. Fugiat sit, voluptatibus explicabo officiis sunt unde repellendus porro amet earum blanditiis accusamus placeat mollitia eius consectetur.
 
 ![Visitor Count](https://profile-counter.glitch.me/codesleeps/count.svg)
 
