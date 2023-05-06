@@ -1,7 +1,9 @@
 
 # OPEN AI PROJECTS ⭐️
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat dolorem quod impedit recusandae animi vel soluta nemo quibusdam debitis sunt enim voluptatibus ea repellendus dignissimos voluptatem, molestiae nulla, iste repudiandae quidem quasi veniam. Fugiat sit, voluptatibus explicabo officiis sunt unde repellendus porro amet earum blanditiis accusamus placeat mollitia eius consectetur.
+The OpenAI API can be applied to virtually any task that involves understanding or generating natural language, code, or images. We offer a spectrum of models with different levels of power suitable for different tasks, as well as the ability to fine-tune your own custom models. These models can be used for everything from content generation to semantic search and classification.
+
+
 
 ![Visitor Count](https://profile-counter.glitch.me/codesleeps/count.svg)
 
@@ -36,7 +38,7 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur ipsam reicie
 
 ## ➤ Documentation 📄
 
-[Documentation](https://linktodocumentation)
+[Documentation](https://platform.openai.com/docs/introduction)
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
 
