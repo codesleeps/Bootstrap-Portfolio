@@ -30,6 +30,7 @@ To deploy this project run
 ## ➤ Description
 
 Put description about app here.......
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur ipsam reiciendis aliquam tempora ea totam libero nostrum perspiciatis architecto autem minima nam quaerat reprehenderit velit eius adipisci saepe odio asperiores, doloribus tempore voluptates iusto? Nulla aliquid velit nesciunt assumenda fuga asperiores? Accusamus omnis magni, inventore alias expedita nemo animi eveniet facere enim facilis aspernatur dicta odio eaque ut sint commodi adipisci cum dolorem sit exercitationem ducimus. Minus placeat nisi aliquid asperiores quas nam earum saepe perspiciatis unde. Pariatur odit ducimus, placeat maiores non dolores, eligendi, nostrum repudiandae vitae optio magnam tempora rem dolore! Nulla, beatae. Quisquam dolore fugit odit, voluptatibus omnis vel quasi repellat atque non quaerat cumque fuga eveniet corrupti obcaecati ab hic placeat quia sapiente optio earum mollitia esse recusandae incidunt! Iste dolor consequuntur nemo impedit a quas ex consectetur, ipsam quidem illo, minus quis maiores atque voluptate nihil fugit enim dignissimos exercitationem ullam earum quaerat? Iusto, voluptate.
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
 
@@ -196,7 +197,7 @@ Answer 2
 
 ## ➤ Feedback 
 
-If you have any feedback, please reach out to us at fake@fake.com
+If you have any feedback, please reach out to us at wake@late.com
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
 
@@ -206,6 +207,7 @@ If you have any feedback, please reach out to us at fake@fake.com
 # Hi, I'm Code Sleep! 
 
 I'm a front end developer...
+perspiciatis unde. Pariatur odit ducimus, placeat maiores non dolores, eligendi, nostrum repudiandae vitae optio magnam tempora rem dolore! Nulla, beatae. Quisquam dolore fugit odit, voluptatibus omnis vel quasi repellat atque non quaerat cumque fuga eveniet corrupti obcaecati ab hic placeat quia sapiente optio earum mollitia esse recusandae incidunt! Iste dolor consequuntur nemo impedit a quas ex consectetur, ipsam quidem illo, minus quis maiores atque voluptate nihil fugit enim dignissimos exercitationem ullam earum quaerat? Iusto, voluptate.
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
 
@@ -328,6 +330,7 @@ To run tests, run the following command
 - [x] Quokka.js 🤖
 - [x] ESLint 🔥
 - [x] JavaScript (ES6) 
+- [x] RapidAPI Client
 - [x] Prettier 🔥
 - [x] Tabnine 🤖
 
