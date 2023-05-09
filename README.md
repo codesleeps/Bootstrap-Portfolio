@@ -9,7 +9,7 @@
 
 # Hi, I'm Code Sleep! 
 
-I'm a front end designer...
+I'm a front end developer...
 
 
 ![logo001](https://user-images.githubusercontent.com/125808990/236808958-deddef64-0c3e-4e5b-92ce-84166aa87fc6.png)
