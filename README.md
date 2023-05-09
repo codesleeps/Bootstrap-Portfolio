@@ -11,7 +11,7 @@ I'm a front end developer...
 
 👩‍💻 I'm currently working on...React 
 
-🧠 I'm currently learning...Python MongoDB PHP
+🧠 I'm currently learning..._Python_ _MongoDB_ _PHP_
 
 👯‍♀️ I'm looking to collaborate on...any A.I. Projects
 
