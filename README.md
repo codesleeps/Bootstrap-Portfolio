@@ -1,12 +1,6 @@
 <!-- ⚠️ This README has been generated from the file(s) "blueprint.md" ⚠️-->
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#portfolio-)
 
-#  Portfolio 🎯
-
-[![License](https://img.shields.io/packagist/l/dingo/api.svg?style=flat-square)](LICENSE)
-
-![Visitor Count](https://profile-counter.glitch.me/codesleeps/count.svg)
-
 # Hi, I'm Code Sleep! 
 
 I'm a front end developer...
@@ -35,6 +29,10 @@ I'm a front end developer...
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://codesleeps.github.io/Bootstrap-Portfolio/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
+
+[![License](https://img.shields.io/packagist/l/dingo/api.svg?style=flat-square)](LICENSE)
+
+![Visitor Count](https://profile-counter.glitch.me/codesleeps/count.svg)
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
 
